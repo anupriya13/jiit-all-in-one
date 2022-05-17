@@ -1,6 +1,6 @@
-#### Portfolio in Neumorphism UI/UX Design built with ReactJs.
+#### UI/UX Design built with ReactJs.
 
-Portfolio/Resume Website using ReactJS.
+Website using ReactJS.
 
 ## Steps to contribute:
 
@@ -13,7 +13,6 @@ Portfolio/Resume Website using ReactJS.
 4. Type the below commands
 
 ```shell
-$ cd Portfolio-Neumorphism-ReactJS
 $ npm install
 $ npm start
 ```
